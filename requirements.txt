@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+opencv-python
+pywavelets
+scikit-learn
+albumentations
+pydicom
+torch>=1.12.0
+torchvision
+tqdm
+transformers
+grad-cam
+seaborn
